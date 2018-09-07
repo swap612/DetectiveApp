@@ -3,8 +3,8 @@ Detective tool to record voice and click pictures. Developed using ionic cordova
 
 <b>Objective:</b> Use Camera and voice recorder in the app.
 
-1. Installation 
-Please folow the following link to do the initial setup of Ionic framework.
+<b>1. Installation Steps</b> <br>
+Please refer the following link to do the initial setup of Ionic framework.
 https://ionicframework.com/docs/intro/installation/
 Packages to be installed:
 i. Node.js: https://nodejs.org/en/
