@@ -27,3 +27,30 @@ export PATH=${PATH}:$GRADLE_HOME
 <p>
 Now you are ready to do the app development.
 </p>
+<br><br>
+<b>2. Writing the Code </b>
+<br>
+<br>
+<b>3. Building and testing the app </b><br>
+  There are several ways to test the app, we see how to build and test the app on our own android phone.<br>
+  Two ways to do the same: 
+  <ol>
+  <li> Build the apk on system and then copy it to the phone, install and test.<br> 
+  <ul>
+    <li> Build the apk: <b>ionic cordova build android </b></li>
+    <li> Copy the apk to phone through usb or mail or anything.</li>
+    <li> Install the apk and test the funcionality of the app.</li>
+   </ul>
+  </li>
+  <br>  
+  <li> Using the USB debugging from Developer options on phone. 
+  <ul>
+    <li>Activate the developer options in phone.<a href="https://developer.android.com/studio/debug/dev-options">Check</a></li>
+    <li>Turn on USB Debugging in developer options from settings.</li>
+    <li>Run cmd on system:  <b>ionic cordova run android --device</b></li>
+    <li>The above command will install the app on the phone. Now test it.</li> 
+    
+   </ul>
+   </li>
+  </ol> 
+  
