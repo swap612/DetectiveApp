@@ -37,7 +37,7 @@ Now you are ready to do the app development.
   <ol>
   <li> Build the apk on system and then copy it to the phone, install and test.<br> 
   <ul>
-    <li> Build the apk: <b>ionic cordova build android </b></li>
+    <li> Build the apk: <b>ionic cordova build android </b><br> Apk is generatec at this location ../platforms/android/app/build/outputs/apk/debug</li>
     <li> Copy the apk to phone through usb or mail or anything.</li>
     <li> Install the apk and test the funcionality of the app.</li>
    </ul>
