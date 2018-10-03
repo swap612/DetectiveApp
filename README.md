@@ -10,7 +10,7 @@ Packages to be installed:<br>
 i. Node.js: https://nodejs.org/en/<br>
 ii. NPM(Node Package Manager): It get installed with Node.js<br>
 iii. After installing i & ii check the installation with npm --version and node --version. If installed correctly, 
-install Ionic CLI and Cordova using the command <br> <b>npm install -g ionic cordova</b><br>
+install Ionic CLI and Cordova using the command <br> <b>sudo npm install -g ionic cordova</b><br>
 iv. For building an app we need Java and android SDK.<br>
   Java Download(JDK 1.8): http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html. <br>Please download 1.8 version only<br>
 v. Download Android Studio from https://developer.android.com/studio/<br> 
