@@ -16,7 +16,7 @@ iv. For building an app we need Java and android SDK.<br>
 v. Download Android Studio from https://developer.android.com/studio/<br> 
   If gradle doesn't get installed with Android studio, download it from https://gradle.org/install/.<br>
 vi. For Ubuntu, after installing all the above softwares. Update the path in ~/.bashrc file.<br>
-add these lines at end of the file, Please make sure to change the path as per your installation folder<br>  
+add these lines at end of the file. Please make sure to change the path as per your installation folder<br>  
 <Pre>export JAVA_HOME="/opt/java/jdk1.8.0_181"
 export ANDROID_HOME="/home/swapnil/Android/Sdk"
 export PATH={$PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$ANDROID_HOME/build-tools
